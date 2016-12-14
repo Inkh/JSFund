@@ -21,9 +21,14 @@ p{
     color:#AF7AC5;
     text-decoration:none;
 }
-ul,li{
+.navlist{
     padding:0px;
     margin:0px 0px 0px 15px;
+    color:#D6EAF8;
+}
+ul,li{
+    padding:0px;
+    margin:10px;
     color:#D6EAF8;
     /*text-decoration:underline;*/
 }
